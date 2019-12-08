@@ -1,0 +1,12 @@
+study	year	age	continent	TT	GT	GG	TTCon	GTCon	GGCon	ethnicity	HWE	casecontrol	quality	gouttype	number	method
+Stark	2009	58.4	non-asia	9	168	500	12	299	1241	caucasian	yes	0.44	high-quality	NA	big	TaqMan
+Matsuo	2009	60.9	Asia	31	87	41	87	316	462	mongoloid	yes	0.18	high-quality	primary	big	Sequencing
+Woodward(white)	2009		non-asia	10	118	327	86	1483	6465	caucasian	no	0.06	low-quality	NA	big	TaqMan
+Phipps-Green(Caucasian)	2010	45	non-asia	13	76	122	8	125	425	caucasian	yes	0.38	high-quality	NA	small	TaqMan
+Yamagishi	2010	62.1	Asia	12	18	15	377	1655	1846	mongoloid	no	0.01	low-quality	NA	big	ETPH
+Phipps-Green(Eastern Polynesia)	2010		non-asia	2	39	160	1	36	173	polynesian	yes	0.68	low-quality	NA	small	TaqMan
+Phipps-Green(Western Polynesia)	2010		non-asia	34	66	29	4	31	36	polynesian	yes	1.79	low-quality	NA	small	TaqMan
+Phipps-Green(Pacific Island)	2010	35.1	non-asia	37	78	58	4	36	69	polynesian	yes	1.34	high-quality	NA	small	TaqMan
+Phipps-Gree(Maori)	2010	40.1	non-asia	2	34	142	1	39	172	polynesian	yes	0.65	high-quality	NA	small	TaqMan
+Li	2011	48.6	Asia	45	91	64	20	112	103	mongoloid	yes	0.85	high-quality	primary	small	SNapshot
+Guan*	2012	54.5	Asia	67	82	52	16	87	97	mongoloid	yes	1	high-quality	NA	small	Sequencing
